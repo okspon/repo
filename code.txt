@@ -3,4 +3,8 @@ not so good as it could be but OK
 some configuration reading
 one more nice code block
 some experimental code
-another test code
+master
+текст із гілки master
+текст із гілки test_feature
+test_feature
+
