@@ -7,4 +7,6 @@ master
 текст із гілки master
 текст із гілки test_feature
 test_feature
-
+adding new cool feature
+fixing bug in previous feature
+fixing bug in previous bugfix
