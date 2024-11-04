@@ -7,4 +7,4 @@ master
 текст із гілки master
 текст із гілки test_feature
 test_feature
-
+adding new cool feature
